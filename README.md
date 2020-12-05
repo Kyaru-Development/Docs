@@ -51,7 +51,7 @@ You can also use our official wrappers to send requests. [Kyaru-api.js (JavaScri
         "yuri",
         "zettaiRyouiki"
     ]
-    }
+}
 ```
 <br>
  
