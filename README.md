@@ -12,7 +12,7 @@ require("node-fetch")("https://kyaru-api.glitch.me/v1/hug", {
     },
 }).then(x => x.json().then(console.log));
 ```
-You can also use our official wrappers to send requests. [Kyaru-api.js (JavaScript)](https://github.com/Kyaru-Development/Kyaru-api.js) / [miss-api.py (Python)](https://github.com/Kyaru-Development/Kyaru-api.py)<br>
+You can also use our official wrappers to send requests. [Kyaru-api.js (JavaScript)](https://github.com/Kyaru-Development/Kyaru-api.js) / [Kyaru-api.py (Python)](https://github.com/Kyaru-Development/Kyaru-api.py)<br>
  
 ## 📑 Endpoints
 ```json
