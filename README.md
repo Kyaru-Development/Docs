@@ -6,7 +6,7 @@
 
 Simple request to kyaru-api:
 ```js
-require("node-fetch")("https://kyaru-api.glitch.me/v1/hug", {
+require("node-fetch")(" https://api.kyaru-dev.ml/v2/hug", {
     headers: {
         "Authorization": `YOUR TOKEN`
     },
